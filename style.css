@@ -1,0 +1,279 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: rgb(228,247,242); 
+}
+nav{
+    position:absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+    text-align: right;
+    font-weight: bolder;
+}
+.logo{
+    margin-left: 50px;
+}
+.name{
+    margin-left: 50px;
+}
+nav.logo{
+     position: fixed;
+    height: 80px;
+    font-size: 24px;
+    font-weight: bolder;
+    text-transform: uppercase;
+    color: #fff;  
+}
+nav ul{
+    list-style: none;
+    padding: 0;
+
+}
+nav ul li{
+    display: inline;
+    font-weight: bolder;
+}
+nav ul li a{
+    line-height: 80px;
+    color: black;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: bold;
+}
+nav ul li a:hover{
+    background: rgba(0,0,0,0.7);
+    border-radius: 6px;
+}
+h3{
+    color: #FFAC2B;
+}
+.button{
+    color: white;
+    background: #00A3AC;
+    height: 50px;
+    width: 150px;
+    border: none;
+}
+.text{
+    padding-left: 5%;
+    display: flex;
+
+}
+ .img{ 
+    border: solid rgb(204,228,224);
+    width: 40%;
+    height: 70%;
+    border-width: 40px;
+    margin-left: 45%;
+    margin-top: 5%;
+    border-radius: 50%;
+
+} 
+.pup{
+    margin-top: 15%;
+}
+.text2{
+    text-align: right;
+    display: flex;
+}
+h2{
+    text-align: left;
+
+}
+.parts{
+    display: inline;
+}
+
+.first{
+    background-color: rgb(228,247,242);
+    height: 900px;
+}
+.two{
+    background-color: #D3E3E9;
+}
+.text6{
+    text-align: left;
+}
+.radi{
+
+    background-color: #f9feff;
+    height: 20%;
+    width: 300px;
+    height: 170px;
+    margin-bottom: 10%;
+    margin-left: 10%;
+    /* padding-left: 9.5% ; */
+}
+.ambu
+{
+    background-color: #f9feff;
+    /* padding-left: 10%; */
+    height: 20%;
+    width: 300px;
+    height: 170px;
+    margin-bottom: 10%;
+    margin-left: 10%;
+    
+    
+}
+.dent
+{
+    background-color: #f9feff;
+     /* padding-left: 10%;  */
+    height: 20%;
+    width: 300px;
+    height: 170px;
+    margin-bottom: 10%;
+    margin-left: 10%;
+}
+.dot{
+    display: flex;
+    padding: 10px;
+}
+.Parts2{
+    display: flex;
+}
+.surg{
+
+    background-color: #f9feff;
+    /* padding-left: 10%; */
+    height: 20%;
+    width: 300px;
+    height: 170px;
+    margin-bottom: 10%;
+    margin-left: 10%;  
+}
+.partu{
+
+    background-color: #f9feff;
+    /* padding-left: 10%; */
+    height: 20%;
+    width: 300px;
+    height: 170px;
+    margin-bottom: 10%;
+    margin-left: 10%;
+}
+.hostel{
+
+    background-color: #f9feff;
+    /* padding-left: 10%; */
+    height: 20%;
+    width: 300px;
+    height: 170px;
+    margin-bottom: 10%;
+    margin-left: 10%;
+    text-align: center;
+   
+}
+.par{
+    padding-left: 20%;
+    margin-left: 30%; 
+}
+/* .nurse{
+    margin: 0;
+    padding: 0;
+    /* background: rgb(228,247,242);  
+    height: 400px;
+    top: 40%;
+} */
+
+
+.services{
+    font-size: larger;
+    margin-right: 80%;
+    text-align: left;
+}
+.char{
+margin-left: 55%;
+}
+.text8{
+    margin-left: 55%;
+    margin-top: -12%;    
+}
+/* .part6{
+    display: flex;
+    border: solid transparent;
+    margin-bottom: 20%;
+} */
+
+.images{
+    border: solid transparent;
+    background-color: rgb(241,234,236);
+    
+
+}
+.button-form {
+    background-color: #00A3AC;
+    width: 30%;
+    height: 20%;
+    margin-left: 30%;
+}
+.subscribe
+{
+    /* background-color: #D3E3E9; */
+    height: 50vh;
+    margin-left:20%;
+}
+.clickbutton{
+    background-color: #D3E3E9;
+    /* margin-left: 7%; */
+    /* padding:5%; */
+    /* margin-top:0%; */
+    margin-left: 20%;
+    
+}
+.service2{
+    display: inline;
+}
+.lad{
+    text-align: left;
+}
+.whatwedo{
+    background-color: lightcyan;
+}
+.parts3{
+    display: flex;
+}
+.text5{
+    margin-left: 25%;
+}
+.imgdoc{
+    background-color:whitesmoke;
+    margin-left: 50px;
+}
+.button_text{
+    margin-bottom: 20px;
+}
+.whattheysay{
+    background-color: #E9FAFC;
+}
+.servicesay{
+    display: inline;
+}
+
+.text6{
+    margin-right: 55%;
+}
+.char{
+    margin-left: 65%;
+    margin-top: -3%;
+}
+.experienced{
+    background-color: #FFAC2B;
+    display: inline;
+}
+.images1{
+    margin-top: 50px;
+
+}
+.part6{
+    display: flex;
+}
+.footer{
+    display: flex;
+
+}
