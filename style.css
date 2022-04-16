@@ -4,14 +4,13 @@ body{
     background: rgb(228,247,242); 
 }
 nav{
-    position:absolute;
-    top:0;
-    left: 0;
     width: 100%;
     height: 100%;
     box-sizing: border-box;
     text-align: right;
     font-weight: bolder;
+    margin-top: -8%;
+    margin-right: 10%;
 }
 .logo{
     margin-left: 50px;
@@ -19,14 +18,14 @@ nav{
 .name{
     margin-left: 50px;
 }
-nav.logo{
+/* nav.logo{
      position: fixed;
     height: 80px;
     font-size: 24px;
     font-weight: bolder;
     text-transform: uppercase;
     color: #fff;  
-}
+} */
 nav ul{
     list-style: none;
     padding: 0;
@@ -183,15 +182,6 @@ h2{
 .char{
 margin-left: 55%;
 }
-.text8{
-    margin-left: 55%;
-    margin-top: -12%;    
-}
-/* .part6{
-    display: flex;
-    border: solid transparent;
-    margin-bottom: 20%;
-} */
 
 .images{
     border: solid transparent;
@@ -207,15 +197,11 @@ margin-left: 55%;
 }
 .subscribe
 {
-    /* background-color: #D3E3E9; */
     height: 50vh;
     margin-left:20%;
 }
 .clickbutton{
     background-color: #D3E3E9;
-    /* margin-left: 7%; */
-    /* padding:5%; */
-    /* margin-top:0%; */
     margin-left: 20%;
     
 }
@@ -255,10 +241,6 @@ margin-left: 55%;
 .char{
     margin-left: 65%;
     margin-top: -3%;
-}
-.experienced{
-    background-color: #FFAC2B;
-    display: inline;
 }
 .images1{
     margin-top: 50px;
@@ -323,4 +305,21 @@ margin-left: 55%;
     background-color: #D3E3E9;
     padding: 5%;
 }
+.text7{
+    display: flex;
+}
+.experience{
+    height: 400px;
+    width: 400px;
+    margin-left: 5%;
+    background-color:white;
+    padding: 1%;
+}
+/* .text8{
+    height: 400px;
+    width: 400px;
+    margin-left: 55%; 
+    background-color:white;
+    padding: 45%;
+} */
 
